@@ -1,1 +1,0 @@
-<iframe width="700" height="400" src="http://127.0.0.1:5000/dataset/income-poverty-evolution-by-city-2007-2021/resource/0e9f8f9e-c8dc-4941-b377-3cdcb63a339c/view/cf09dfff-a692-4bff-b981-25f6ca11b89d" frameBorder="0"></iframe>
